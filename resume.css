@@ -1,0 +1,26 @@
+.background
+{
+    background-color: #202a44;
+}
+
+.content
+{
+    color:  whitesmoke;
+}
+
+/* #cv-form
+{
+    display: none;
+} */
+
+#cv-template
+{
+    display: none;
+}
+
+.myimg
+{
+    border-radius: 50%;
+    width: 150px;
+    align-content: center;
+}
